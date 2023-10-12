@@ -1,13 +1,13 @@
-import {Header} from '@/app/shared'
+import { Header } from '@/app/shared'
 import Image from "next/image";
-import aboutMePage from "../../public/aboutMePage.jpg";
+import aboutMePage from "../../public/aboutMePagePic.jpg";
 import Link from "next/link";
 
 export default function AboutPage() {
     return (
         <>
             <Header/>
-            <main className="my-16 flex flex-col items-center justify-center h-screen w-screen">
+            <main className="flex flex-col items-center justify-center h-screen w-screen">
                 <Image src={aboutMePage}
                        alt="Luiz Lima's photo"
                        height={400} width={400}

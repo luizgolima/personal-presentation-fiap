@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from "next/image";
-import homePic from "../public/homePic.jpg";
+import homePic from "../public/homePagePic.jpg";
 
 export default function Home() {
     return (

@@ -1,0 +1,54 @@
+[
+  {
+    "position": "Full Stack Developer",
+    "company": "Point Sistemas",
+    "date": "Aug 2023 - Present",
+    "responsibilities": [
+      "Experience in development with Java Spring Boot, Angular (TypeScript), and PostgreSQL.",
+      "Experience with Spring Boot, both in monolith and API configurations, using JPA and Hibernate to integrate procedures and queries in the database.",
+      "Experience with TypeScript and Angular, creating user interfaces (such as dashboards, kanban screens, and Google Maps integrated routing), integration, and API consumption, among others.",
+      "Contributed to expanding the capabilities of applications, including implementing new features and performing refactoring processes such as code reviews, debugging, and testing. Direct result: ensuring uninterrupted project operation.",
+      "Close collaboration with clients, demonstrating communication skills by understanding their requests and making corresponding adjustments.",
+      "Performed procedures and integrated the application with the PostgreSQL database."
+    ]
+  },
+  {
+    "position": "Mobile Developer",
+    "company": "Freelance",
+    "date": "Jul 2023 - Jul 2023",
+    "responsibilities": [
+      "Prototyping user interface (UI) in Figma in collaboration with the client.",
+      "Development of mobile application using Ionic and Angular, including architecture, user log in and registration, administrative panel, etc.",
+      "Integration with external APIs for additional functionalities and secure communication.",
+      "Testing, debugging, and ensuring application stability and quality.",
+      "Direct collaboration with the client to understand requirements and make necessary adjustments."
+    ]
+  },
+  {
+    "position": "Full Stack Developer",
+    "company": "Freelance",
+    "date": "Jun 2023 - Jul 2023",
+    "responsibilities": [
+      "Prototyping user interface (UI) in Figma in collaboration with the client.",
+      "Development of a web application portfolio with a blog using Next.js (React) with TypeScript and TailwindCSS, including architecture, portfolio pages, email sending through Next.js, and integration with the Notion API for blog administration.",
+      "Testing and debugging to ensure application stability and quality.",
+      "Direct collaboration with the client to understand requirements and make necessary adjustments.",
+      "Deployment on Vercel to ensure the performance of the Next.js project."
+    ]
+  },
+  {
+    "position": "Full Stack Developer",
+    "company": "Faluz Tecnologia",
+    "date": "Jul 2022 - Jul 2023",
+    "responsibilities": [
+      "Prototyping user interface (UI) in Figma, collaborating with the client to create an intuitive interface aligned with visual identity.",
+      "Front-end development using Angular, Angular Material, TypeScript, HTML, and SCSS, resulting in a responsive, intuitive, and accessible application.",
+      "Contribution to back-end development with Flask (Python), implementing features in the RESTful API and assisting with testing and code refactoring.",
+      "Utilization of Postgres and SQL Server databases in the development environment.",
+      "Use of Docker, Git, and GitHub for efficient and scalable development workflow.",
+      "Hosting the project on the Azure platform to ensure availability and security.",
+      "Active collaboration in meetings (Scrum and Kanban) to discuss progress and propose improvements.",
+      "Maintaining good relationships and communication within the team."
+    ]
+  }
+]
