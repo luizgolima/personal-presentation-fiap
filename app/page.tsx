@@ -7,19 +7,19 @@ export default function Home() {
         <main className="flex flex-col items-center justify-center h-screen w-screen">
             <Image src={homePic}
                    alt="Luiz Lima's photo"
-                   height={400} width={400}
+                   height={300} width={300}
                    title="Looking for something?"
                    className="mb-8 rounded-full hover:scale-105"/>
-            <h1 className="text-6xl font-bold mb-3 text-center">Luiz Lima</h1>
-            <h3 className="text-3xl font-bold mb-6 text-center">
+            <h1 className="w-4/5 text-4xl font-bold text-center mb-2">Luiz Lima</h1>
+            <h3 className="w-4/5 text-2xl text-center mb-4">
                 Hey there and welcome to my portfolio!
             </h3>
-            <p className="mb-8 text-center px-4">
+            <p className="w-4/5 text-center mb-8">
                 I'm a Software Developer with a passion for building things that live on the internet.
             </p>
             <nav>
-                <ul className="flex">
-                    <li className="mb-2 sm:mr-6 text-center">
+                <ul className="flex gap-4">
+                    <li>
                         <Link
                             href="/about"
                             title="Let's go!"
@@ -27,7 +27,7 @@ export default function Home() {
                             Get to know me
                         </Link>
                     </li>
-                    <li className="mb-2 sm:mr-6 text-center">
+                    <li>
                         <Link
                             href="/"
                             title="Alright!"
