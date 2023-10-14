@@ -29,7 +29,7 @@ export default function Home() {
                     </li>
                     <li>
                         <Link
-                            href="/"
+                            href="/contact"
                             title="Alright!"
                             className="text-blue-500 hover:text-blue-400 hover:underline">
                             Get in touch
